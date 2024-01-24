@@ -4,7 +4,7 @@ Three heat maps of bivariate normal wps r graph plot
 
     Three heat maps of bivariate normal wps r graph plot;
 
-    Renakable set of three graphs?
+    Remarkable set of three graphs?
 
     http://tinyurl.com/46ywn7pu  
     https://github.com/rogerjdeangelis/utl-three-heat-maps-of-bivariate-normal-wps-r-graph-plot/blob/main/topo.pdf
